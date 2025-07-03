@@ -135,7 +135,7 @@ function App() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
               <img 
-                src="src/WorkAIDly.png" 
+                src="/WorkAIDly.png" 
                 alt="WorkAIDly Logo" 
                 className="h-8 w-8 drop-shadow-[0_0_10px_rgba(34,197,94,0.8)]"
               />
@@ -277,7 +277,7 @@ function App() {
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
               <img 
-                src="src/WorkAIDly.png" 
+                src="./WorkAIDly.png" 
                 alt="WorkAIDly Logo" 
                 className="h-8 w-8 drop-shadow-[0_0_10px_rgba(34,197,94,0.8)]"
               />
@@ -607,7 +607,7 @@ function App() {
               </div>
               <div className="flex items-center">
                 <img 
-                  src="src/WorkAIDly - Copy.png" 
+                src="./WorkAIDly - Copy.png" 
                   alt="WorkAIDly Logo" 
                   className="h-80 w-80 drop-shadow-[0_0_10px_rgba(34,197,94,0.8)]"
                 />
@@ -679,7 +679,7 @@ function App() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <img 
-                  src="src/WorkAIDly.png" 
+                  src="/WorkAIDly.png" 
                   alt="WorkAIDly Logo" 
                   className="h-8 w-8 drop-shadow-[0_0_10px_rgba(34,197,94,0.8)]"
                 />
